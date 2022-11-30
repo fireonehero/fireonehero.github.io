@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    margin-top: 200px;
+    padding-left: 200px;
+}
+#message{
+    color: magenta;
+    font-family: Monospace, "Courier New";
+    font-size: 3vw;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-left: 100px;
+    text-shadow: 0 0 10px #fff;
+}
+#till{
+    color: magenta;
+    font-family: Monospace, "Courier New";
+    font-size: 3vw;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-left: 200px;
+    text-shadow: 0 0 10px #fff;
+}
+#unban{
+    color: magenta;
+    font-family: Monospace, "Courier New";
+    font-size: 3vw;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-left: 300px;
+    text-shadow: 0 0 10px #fff;
+}
+#timer{
+    color: magenta;
+    font-family: Monospace, "Courier New";
+    font-size: 7vw;
+    margin-top: 0px;
+    padding-left: 500px;
+    text-shadow: 0 0 10px #fff;
+}
